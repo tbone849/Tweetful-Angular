@@ -178,3 +178,42 @@ table.stats small {
 table.stats td:first-child {
   padding-left: 18px;
 }
+
+.masthead-intro,
+.masthead-heading {
+  text-align: center;
+}
+
+.masthead {
+  padding: 6em 0;
+}
+
+.masthead-heading {
+  margin-bottom: 0.1em;
+}
+
+.masthead-intro {
+  margin-top: -0.2em;
+}
+
+.info h1 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.info-container {
+  text-align:center;
+}
+
+.info {
+  vertical-align:top;
+  display:inline-block;
+  width: 30%;
+  padding-left: 30px;
+  box-sizing:border-box;
+}
+
+.position {
+  font-style: italic;
+}
+
